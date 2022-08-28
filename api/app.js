@@ -10,7 +10,7 @@ app.get('/', function (req, res, next) {
     "title": "Book review: Winnie the Pooh!"
     },
     {"id": "2", 
-    "title": "Game review: Pokemon Go!!!"
+    "title": "Game review: Pokemon Go!!"
     },
     {"id": "3", 
     "title": "Show review: Disney Cartoon!"
